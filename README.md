@@ -13,6 +13,5 @@ Currently learning Machine Learning and Web Development
 
 - Python
 - HTML & CSS
-- JavaScript
-- Git & GitHub
+- C
 - Machine Learning Basics
