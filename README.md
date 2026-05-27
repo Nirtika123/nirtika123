@@ -1,5 +1,7 @@
  👋 Hello, I'm Nirtika Satpathy
+ 
 #.............................................................................#
+
 🎓 B.Tech CSE-AI Student  
  Beginner Python & AI Developer  
 Currently learning Machine Learning and Web Development  
