@@ -1,16 +1,16 @@
-## Hi there 👋
+ 👋 Hello, I'm Nirtika Satpathy
+#.............................................................................#
+🎓 B.Tech CSE-AI Student  
+ Beginner Python & AI Developer  
+Currently learning Machine Learning and Web Development  
+ Interested in AI Projects and Problem Solving  
 
-<!--
-**Nirtika123/nirtika123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Machine Learning Basics
